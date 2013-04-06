@@ -12,3 +12,4 @@ eclipse 远程文件实时同步，eclipse远程部署插件
 原理：利用jdk1.7的文件修改监听API将配置目录下的文件（一般为windows）如果修改添加，则实时使用ssh jar包的api同步到远程测试服务器上（一般linux）
 
 
+具体设置过程可以参考http://blog.csdn.net/zhongweijian/article/details/8765000 这篇文章。
